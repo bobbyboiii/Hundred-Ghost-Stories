@@ -21,6 +21,15 @@
         "Soukyuu Scans": "/proxy/api/imgur/chapter/vvzX4Ev/"
       },
       "last_updated": "1636256779"
-    }
+    },
+    
+      "3": {
+      "title": "Clayman",
+      "volume": "1",
+      "groups": {
+        "Soukyuu Scans": "/proxy/api/imgur/chapter/Yu2hjtC/"
+      },
+      "last_updated": "1636256779"
+    }  
   }
 }
