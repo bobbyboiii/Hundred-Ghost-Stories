@@ -30,6 +30,15 @@
         "Soukyuu Scans": "/proxy/api/imgur/chapter/Yu2hjtC/"
       },
       "last_updated": "1636258925"
-    }  
+    },
+    
+      "4": {
+      "title": "Package Delivered",
+      "volume": "1",
+      "groups": {
+        "Soukyuu Scans": "/proxy/api/imgur/chapter/c1oASgJ/"
+      },
+      "last_updated": "1636778515"
+    } 
   }
 }
