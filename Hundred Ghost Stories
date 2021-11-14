@@ -39,6 +39,15 @@
         "Soukyuu Scans": "/proxy/api/imgur/chapter/c1oASgJ/"
       },
       "last_updated": "1636778515"
-    } 
+    },
+    
+      "5": {
+      "title": "Tempting Waters",
+      "volume": "1",
+      "groups": {
+        "Soukyuu Scans": "/proxy/api/imgur/chapter/iWQB9t4/"
+      },
+      "last_updated": "1636867590"
+    }  
   }
 }
