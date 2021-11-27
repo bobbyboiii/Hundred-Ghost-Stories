@@ -57,6 +57,15 @@
         "Soukyuu Scans": "/proxy/api/imgur/chapter/k3ccfn7/"
       },
       "last_updated": "1637383859"
-    }  
+    },
+    
+      "7": {
+      "title": "Con Artist",
+      "volume": "1",
+      "groups": {
+        "Soukyuu Scans": "/proxy/api/imgur/chapter/F5KK3W1/"
+      },
+      "last_updated": "1637985389"
+    } 
   }
 }
